@@ -1,2 +1,1 @@
-# project-1
-Hands- Guide for building a Highly Available 3-Tier Web Application on AWS with EC2, RDS, ALB, S3, and Auto Scaling
+<img width="1536" height="1024" alt="3tier_image" src="https://github.com/user-attachments/assets/208a2243-b049-4ee8-959f-99bd3e7f65ae" />
