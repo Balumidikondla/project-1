@@ -77,7 +77,10 @@ Monitoring Layer
 - AWS Account
 - Git bash or Mobexterm
 
+
 ### set-up
+- Login AWS Account
+serach "VPC"
 
 #VPC
 🚀 Step 1: Create VPC
