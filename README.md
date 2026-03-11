@@ -76,3 +76,45 @@ Monitoring Layer
 # Pre-Requisites
 - AWS Account
 - Git bash or Mobexterm
+
+### set-up
+
+#VPC
+🚀 Step 1: Create VPC
+
+Login to AWS Console
+
+Go to VPC Dashboard
+
+Click Create VPC
+
+Select:
+
+VPC only
+
+Fill details:
+
+Field	Value
+Name	3tier-vpc
+IPv4 CIDR	10.0.0.0/16
+Tenancy	Default
+
+Click Create VPC
+
+#Create Subnets (N. Virginia)
+
+🚀 Step 2: Create Subnets (N. Virginia)
+
+Go to VPC → Subnets → Create Subnet
+Select VPC 3tier-vpc
+
+Create 4 subnets like this:
+
+Name	AZ	CIDR
+public-subnet-1	us-east-1a	10.0.1.0/24
+public-subnet-2	us-east-1b	10.0.2.0/24
+private-subnet-1	us-east-1a	10.0.3.0/24
+private-subnet-2	us-east-1b	10.0.4.0/24
+
+✅ Two public subnets
+✅ Two private subnets
