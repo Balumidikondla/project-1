@@ -5,7 +5,7 @@
 1. [Project Overview](#project-overview)
 2. [Architecture Overview](#architecture-overview)
 3. [Pre-Requisites](#pre-requisites)
-4. [set-up].(#set-up).
+4. [set-up](#set-up).
 
 # Project Overview
 
