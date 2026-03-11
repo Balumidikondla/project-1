@@ -80,7 +80,7 @@ Monitoring Layer
 
 ### set-up
 - Login AWS Account
-serach "VPC"
+- serach "VPC"
 
 #VPC
 🚀 Step 1: Create VPC
